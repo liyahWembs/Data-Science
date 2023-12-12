@@ -1,5 +1,5 @@
 # Data-Science
-All the data science related project are located in this repository
+Data Foundation Final Project FoodHub README
 **Why was the project undertaken?**
 
 The project was undertaken to analyze the data collected from various food orders made through the FoodHub online portal. The primary goal was to gain insights into customer behavior, restaurant preferences, and overall business dynamics. The increasing reliance on online food delivery services in New York provided a context for the relevance and significance of this analysis.
